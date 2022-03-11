@@ -1,0 +1,24 @@
+td {
+  padding: 20px;
+  font-size: 50px;
+}
+
+* {
+  font-family: "Arimo", sans-serif;
+}
+
+.bt {
+  border-top: 2px solid black;
+}
+
+.br {
+  border-right: 2px solid black;
+}
+
+.bb {
+  border-bottom: 2px solid black;
+}
+
+.bl {
+  border-left: 2px solid black;
+}
